@@ -9,8 +9,6 @@ My expertise lies in designing and implementing efficient database structures, d
 
 Throughout my career, I have worked on various projects ranging from small startups to large-scale enterprise applications. I am skilled at translating business requirements into technical solutions and thrive in collaborative team environments.
 
-In addition to my technical skills, I am committed to continuously improving my knowledge and staying up to date with the latest trends and advancements in the Ruby on Rails ecosystem. I actively contribute to open-source projects and enjoy sharing my learnings through blog posts and technical discussions.
-
 If you're looking for a dedicated Ruby on Rails developer who can deliver high-quality code and help bring your web application ideas to life, feel free to get in touch. I'm always excited to tackle new challenges and contribute to the success of innovative projects.
 
 
