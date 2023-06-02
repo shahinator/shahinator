@@ -1,7 +1,7 @@
-### Hi there 👋, Md Shahinur Rahman
-#### Ruby on Rails Developer
-![Ruby on Rails Developer](https://media.licdn.com/dms/image/D4E16AQEuZ3pYcd9DWw/profile-displaybackgroundimage-shrink_350_1400/0/1685740728103?e=1691020800&v=beta&t=Dy6qm26CejP2t8DLIwV8e3b27GJ8jzeg1dxdlKOTRH0)
 
+![Ruby on Rails Developer](https://media.licdn.com/dms/image/D4E16AQEuZ3pYcd9DWw/profile-displaybackgroundimage-shrink_350_1400/0/1685740728103?e=1691020800&v=beta&t=Dy6qm26CejP2t8DLIwV8e3b27GJ8jzeg1dxdlKOTRH0)
+### Md Shahinur Rahman
+#### Ruby on Rails Developer
 ### About Me
 
 I am an experienced Ruby on Rails developer with a passion for building robust web applications. With great industry experience, I have developed a deep understanding of the Rails framework and its best practices.
